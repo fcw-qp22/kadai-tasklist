@@ -14,7 +14,7 @@
                     <a href="${pageContext.request.contextPath}/show?id=${task.id}">
                         <c:out value="${task.id}" />
                     </a>
-                    ：<c:out value="中野"></c:out> &gt; <c:out value="${task.content}" />
+                    ：<c:out value="ユーザー"></c:out> &gt; <c:out value="${task.content}" />
                 </li>
             </c:forEach>
         </ul>

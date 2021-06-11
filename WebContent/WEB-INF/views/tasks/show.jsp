@@ -10,7 +10,7 @@
 <table>
                     <tbody>
                         <tr>
-                            <th>ID(メンディー)</th>
+                            <th>ID</th>
                             <td><c:out value="${task.id}" /></td>
                         </tr>
                         <tr>

@@ -17,7 +17,7 @@
         ${param.content }
     </div>
     <div id="footer">
-        by Akihiro Nakano
+        
     </div>
     </div>
 </body>
